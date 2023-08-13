@@ -1,0 +1,37 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+/* h1,h2{
+    text-align: center;
+} */
+.div1{
+    text-align: center;
+}
+input{
+    margin: 20px;
+    height: 40px;
+    width: 500px;
+}
+#output-box{
+    background-color:rgb(216, 240, 237);
+    height: auto;
+    min-height: 50px;
+    width: 450px;
+    border-radius: 20px;
+    border: 2px solid black;
+    margin: 10px;
+    text-align: center;
+    padding: 10px;
+}
+.output-div{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border: 2px solid black;
+    width: 500px;
+}
